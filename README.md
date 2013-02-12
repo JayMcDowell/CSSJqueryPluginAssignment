@@ -1,0 +1,1 @@
+Chris Jones and I were assigned to add an image slider to the main section of the page as well as a vertical carousel to the lower right section.  We had a bit of trouble with the first carousel but when we switched plugins it came together.  A little trial and error and we got them to both coexist on one page.
